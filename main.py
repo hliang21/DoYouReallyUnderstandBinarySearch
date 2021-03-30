@@ -1,3 +1,9 @@
+'''
+Term Project Exercise 3: Binary Search
+Solution for Do you really understand binary search ?
+https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/do-you-really-understand-binary-search/
+'''
+
 def main():
     num_line = int(input())
     y_ints = input().split()
