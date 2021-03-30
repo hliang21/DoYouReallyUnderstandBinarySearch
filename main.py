@@ -32,7 +32,8 @@ def lines_below_binary_search(y_ints, left, right, x, y, n):
         else:
             return n + 1
     return n
-        
+
+# given the y-intercept, return the y value of a linear line whose slope is -1 at x    
 def y_at_x(y_int, x):
     m = -1
     b = y_int
